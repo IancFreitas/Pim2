@@ -1,0 +1,13 @@
+D:\Estudos C#\PIM\PIM\bin\Debug\netcoreapp3.1\PIM.exe
+D:\Estudos C#\PIM\PIM\bin\Debug\netcoreapp3.1\PIM.deps.json
+D:\Estudos C#\PIM\PIM\bin\Debug\netcoreapp3.1\PIM.runtimeconfig.json
+D:\Estudos C#\PIM\PIM\bin\Debug\netcoreapp3.1\PIM.runtimeconfig.dev.json
+D:\Estudos C#\PIM\PIM\bin\Debug\netcoreapp3.1\PIM.dll
+D:\Estudos C#\PIM\PIM\bin\Debug\netcoreapp3.1\PIM.pdb
+D:\Estudos C#\PIM\PIM\obj\Debug\netcoreapp3.1\PIM.csprojAssemblyReference.cache
+D:\Estudos C#\PIM\PIM\obj\Debug\netcoreapp3.1\PIM.AssemblyInfoInputs.cache
+D:\Estudos C#\PIM\PIM\obj\Debug\netcoreapp3.1\PIM.AssemblyInfo.cs
+D:\Estudos C#\PIM\PIM\obj\Debug\netcoreapp3.1\PIM.dll
+D:\Estudos C#\PIM\PIM\obj\Debug\netcoreapp3.1\PIM.pdb
+D:\Estudos C#\PIM\PIM\obj\Debug\netcoreapp3.1\PIM.csproj.CoreCompileInputs.cache
+D:\Estudos C#\PIM\PIM\obj\Debug\netcoreapp3.1\PIM.genruntimeconfig.cache
